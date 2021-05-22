@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/kg-cosmos/static/css/main.87e17861.chunk.css",
+    "main.js": "/kg-cosmos/static/js/main.7152f458.chunk.js",
+    "main.js.map": "/kg-cosmos/static/js/main.7152f458.chunk.js.map",
+    "runtime-main.js": "/kg-cosmos/static/js/runtime-main.5769a7b5.js",
+    "runtime-main.js.map": "/kg-cosmos/static/js/runtime-main.5769a7b5.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/kg-cosmos/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.226c2839.chunk.js": "/kg-cosmos/static/js/2.226c2839.chunk.js",
+    "static/js/2.226c2839.chunk.js.map": "/kg-cosmos/static/js/2.226c2839.chunk.js.map",
+    "index.html": "/kg-cosmos/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/kg-cosmos/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.87e17861.chunk.css.map": "/kg-cosmos/static/css/main.87e17861.chunk.css.map",
+    "static/js/2.226c2839.chunk.js.LICENSE.txt": "/kg-cosmos/static/js/2.226c2839.chunk.js.LICENSE.txt",
+    "static/media/ArrowDown.e5f134b0.svg": "/kg-cosmos/static/media/ArrowDown.e5f134b0.svg",
+    "static/media/ArrowUp.74976efd.svg": "/kg-cosmos/static/media/ArrowUp.74976efd.svg",
+    "static/media/CapsulesText.ce0c7cee.svg": "/kg-cosmos/static/media/CapsulesText.ce0c7cee.svg",
+    "static/media/CircleLeft.b376de8d.svg": "/kg-cosmos/static/media/CircleLeft.b376de8d.svg",
+    "static/media/CircleRight.4c4f81f8.svg": "/kg-cosmos/static/media/CircleRight.4c4f81f8.svg",
+    "static/media/CircleTop.7669f252.svg": "/kg-cosmos/static/media/CircleTop.7669f252.svg",
+    "static/media/CloseBtn.9468ed83.svg": "/kg-cosmos/static/media/CloseBtn.9468ed83.svg",
+    "static/media/CopyRecrutmentTaskText.4772fd53.svg": "/kg-cosmos/static/media/CopyRecrutmentTaskText.4772fd53.svg",
+    "static/media/CopyRightText.bd664f7c.svg": "/kg-cosmos/static/media/CopyRightText.bd664f7c.svg",
+    "static/media/CrewText.4b064c90.svg": "/kg-cosmos/static/media/CrewText.4b064c90.svg",
+    "static/media/GreenDot.658e9b8f.svg": "/kg-cosmos/static/media/GreenDot.658e9b8f.svg",
+    "static/media/PieceOfLogo.4af4f39e.svg": "/kg-cosmos/static/media/PieceOfLogo.4af4f39e.svg",
+    "static/media/Planet.0c6f5e4f.svg": "/kg-cosmos/static/media/Planet.0c6f5e4f.svg",
+    "static/media/RedDot.79b7c7ca.svg": "/kg-cosmos/static/media/RedDot.79b7c7ca.svg",
+    "static/media/Rocket.714cbe96.svg": "/kg-cosmos/static/media/Rocket.714cbe96.svg",
+    "static/media/RocketsText.c9bd24d2.svg": "/kg-cosmos/static/media/RocketsText.c9bd24d2.svg",
+    "static/media/SecondRedDot.79b7c7ca.svg": "/kg-cosmos/static/media/SecondRedDot.79b7c7ca.svg",
+    "static/media/StarlinkText.c1592b95.svg": "/kg-cosmos/static/media/StarlinkText.c1592b95.svg",
+    "static/media/Usertive.768ded68.svg": "/kg-cosmos/static/media/Usertive.768ded68.svg",
+    "static/media/VioletDot.185a58ff.svg": "/kg-cosmos/static/media/VioletDot.185a58ff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5769a7b5.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.226c2839.chunk.js",
+    "static/css/main.87e17861.chunk.css",
+    "static/js/main.7152f458.chunk.js"
+  ]
+}

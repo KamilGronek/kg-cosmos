@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kg-cosmos/static/css/main.01a84927.chunk.css",
-    "main.js": "/kg-cosmos/static/js/main.6dae20b8.chunk.js",
-    "main.js.map": "/kg-cosmos/static/js/main.6dae20b8.chunk.js.map",
+    "main.css": "/kg-cosmos/static/css/main.5df2e26a.chunk.css",
+    "main.js": "/kg-cosmos/static/js/main.8dd25851.chunk.js",
+    "main.js.map": "/kg-cosmos/static/js/main.8dd25851.chunk.js.map",
     "runtime-main.js": "/kg-cosmos/static/js/runtime-main.5769a7b5.js",
     "runtime-main.js.map": "/kg-cosmos/static/js/runtime-main.5769a7b5.js.map",
     "static/css/2.61b4cb56.chunk.css": "/kg-cosmos/static/css/2.61b4cb56.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.226c2839.chunk.js.map": "/kg-cosmos/static/js/2.226c2839.chunk.js.map",
     "index.html": "/kg-cosmos/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/kg-cosmos/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.01a84927.chunk.css.map": "/kg-cosmos/static/css/main.01a84927.chunk.css.map",
+    "static/css/main.5df2e26a.chunk.css.map": "/kg-cosmos/static/css/main.5df2e26a.chunk.css.map",
     "static/js/2.226c2839.chunk.js.LICENSE.txt": "/kg-cosmos/static/js/2.226c2839.chunk.js.LICENSE.txt",
     "static/media/ArrowDown.e5f134b0.svg": "/kg-cosmos/static/media/ArrowDown.e5f134b0.svg",
     "static/media/ArrowUp.74976efd.svg": "/kg-cosmos/static/media/ArrowUp.74976efd.svg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.5769a7b5.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.226c2839.chunk.js",
-    "static/css/main.01a84927.chunk.css",
-    "static/js/main.6dae20b8.chunk.js"
+    "static/css/main.5df2e26a.chunk.css",
+    "static/js/main.8dd25851.chunk.js"
   ]
 }

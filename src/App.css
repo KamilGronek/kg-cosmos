@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #221b3a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+  position: fixed;
+}
+
+.App-link {
+  color: #61dafb;
+}

@@ -9,7 +9,7 @@ export const Picture = styled.img
     cursor: url(Pointer.png) 4 12, auto;
     padding:15px;
     height: 238px;
-    weight: 190px;
+    width: 190px;
     border-radius: 35px;
 `
 

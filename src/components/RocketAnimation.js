@@ -18,13 +18,13 @@ const handleMoveRocket =()=>{
 return(
   <Col>
   <Col>
-    <Smoke2 src={process.env.PUBLIC_URL + "smoke2.png"} alt=""/>
+    <Smoke2 src={process.env.PUBLIC_URL + "/smoke2.png"} alt=""/>
     <div  style={{position:"absolute"}} ref={el=>{rocketItem=el}} >
       <RocketPic/>
     </div>
-  <Smoke1 src={process.env.PUBLIC_URL + "smoke1.png"} alt=""/>
+  <Smoke1 src={process.env.PUBLIC_URL + "/smoke1.png"} alt=""/>
   </Col>
-  <Col> <img src="planet.png" alt="" /></Col>
+  <Col> <img src={process.env.PUBLIC_URL +"/planet.png"} alt="" /></Col>
   <Col>
     <BtnRocket onClick={handleMoveRocket}>
       Launch Rocket!

@@ -1,6 +1,6 @@
 {
   "name": "kg-cosmos-space-x",
-  "homepage":"https://kamilgronek.github.io/kg-cosmos/",
+  "homepage": "https://kamilgronek.github.io/kg-cosmos/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

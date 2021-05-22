@@ -16,15 +16,15 @@ function Links() {
         <>
          <Col>
                   <CapsulesSvg/>
-                  <Picture  src={process.env.PUBLIC_URL +"capsules.png"} alt=""  variant="primary" onClick={() => context.handleChangeCapsules()}/>
-                  <CrewSvg/>
-                  <Picture src={process.env.PUBLIC_URL +"crew.png"} alt=""  variant="primary" onClick={() => context.handleChangeCrew()} />
+                  <Picture  src={process.env.PUBLIC_URL +"/capsules.png"} alt=""  variant="primary" onClick={() => context.handleChangeCapsules()}/>
+                  <CrewSvg/> 
+                  <Picture src={process.env.PUBLIC_URL +"/crew.png"} alt=""  variant="primary" onClick={() => context.handleChangeCrew()} /> 
                 </Col>
                 <Col>
-                  <RocketsSvg/>
-                  <Picture src={process.env.PUBLIC_URL +"rockets.png"} alt=""   variant="primary" onClick={() => context.handleChangeRockets()} />
+                 <RocketsSvg/>
+                  <Picture src={process.env.PUBLIC_URL +"/rockets.png"} alt=""   variant="primary" onClick={() => context.handleChangeRockets()} />
                   <StarlinkSvg/>
-                  <Picture src={process.env.PUBLIC_URL +"starlinkPic.png"} alt=""   variant="primary" onClick={() => context.handleChangeStarlink()} />
+                  <Picture src={process.env.PUBLIC_URL +"/starlinkPic.png"} alt=""   variant="primary" onClick={() => context.handleChangeStarlink()} /> 
         </Col>
       </>
     )

@@ -18,7 +18,7 @@ const handleMoveRocket =()=>{
 return(
   <Col>
   <Col>
-    <Smoke2 src="smoke2.png" alt=""/>
+    <Smoke2 src={process.env.PUBLIC_URL + "smoke2.png"} alt=""/>
     <div  style={{position:"absolute"}} ref={el=>{rocketItem=el}} >
       <RocketPic/>
     </div>

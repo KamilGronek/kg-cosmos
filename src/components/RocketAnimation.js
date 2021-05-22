@@ -1,5 +1,5 @@
 import React,{useRef} from "react";
-import {BtnRocket,RocketPic,Smoke1,Smoke2} from '../StyledComponents/styledIllustration';
+import {BtnRocket,RocketPic,LandingGear,Smoke1,Smoke2,} from '../StyledComponents/styledIllustration';
 import {Col} from "react-bootstrap";
 import gsap from 'gsap';
 
@@ -22,6 +22,7 @@ return(
     <div  style={{position:"absolute"}} ref={el=>{rocketItem=el}} >
       <RocketPic/>
     </div>
+  <LandingGear src={process.env.PUBLIC_URL +"/landing_gear.png"} alt=""/>
   <Smoke1 src={process.env.PUBLIC_URL + "/smoke1.png"} alt=""/>
   </Col>
   <Col> <img src={process.env.PUBLIC_URL +"/planet.png"} alt="" /></Col>

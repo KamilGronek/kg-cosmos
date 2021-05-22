@@ -25,7 +25,7 @@ export const RocketPic = styled(Rocket)
 `
 height: 140px;
 width: 102px;
-left: 240px;
+left: 250px;
 top: -70px;
 border-radius: 0px;
 position: absolute;
@@ -36,8 +36,8 @@ export const Smoke1 = styled.img
 `
 height: 50px;
 width: 52px;
-left: 1080px;
-top: 140px;
+left: 1120px;
+top: 160px;
 border-radius: 0px;
 position:absolute
 `
@@ -46,8 +46,8 @@ export const Smoke2 = styled.img
 `
 height: 62px;
 width: 65px;
-left: 1000px;
-top: 140px;
+left: 980px;
+top: 150px;
 border-radius: 0px;
 position:absolute
 

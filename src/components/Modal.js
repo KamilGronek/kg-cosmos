@@ -54,7 +54,13 @@ function MyVerticallyCenteredModal(){
                   : ""}
                 </FieldTextType>
                 <TextStatus>
-                  Status
+                {context.endpoint ==="starlink" ?
+                 "Launch" :
+                 context.endpoint === "rockets" ?
+                  "Diameter" :
+                 "Status"}
+
+
                 </TextStatus>
             </FieldTextStatus>
           </Row>

@@ -122,21 +122,21 @@ function AppProvider({children}) {
         responseArray = response.data.docs.map(row => ({
           id: row.id,
           firstColumn: row.engines.type,
-          secondColumn: row.status
+          secondColumn: row.diameter.meters
         }));
        }
        else if (endpoint === "starlink") {
         responseArray = response.data.docs.map(row => ({
           id: row.id,
           firstColumn: row.version,
-          secondColumn: row.status
+          secondColumn: row.launch
         }));
        }
 
        setDataArray(responseArray);
       console.log(response.data.docs)
      } else {
-       console.log("jakiś błąd: " + response.status);
+       console.log("error: " + response);
      }
    })
  

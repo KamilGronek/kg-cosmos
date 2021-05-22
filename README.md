@@ -1,7 +1,7 @@
 # Introduction
 
 The purpose of the application was to obtain a similar layout of the application placed on the Figma platform and to code it.
-When working with the API, I used the endpoint query. It uses the post method, thanks to which the entire sorting mechanism is performed on the server side, thanks to which I reduce the complexity of the code on the client side, it is more efficient
+When I was working with the API, I used the endpoint query. It uses the post method, thanks to which the entire sorting mechanism is performed on the server side, and I reduce the complexity of the code on the client side, it is more efficient
 
 When I was working in a Chrome browser using Dev Tools, I suggested a size above 1200px in height and 768px in width.
 
@@ -40,4 +40,4 @@ npm start
 ## Reflections:
 
 In the future, if we wanted to work with smarter code, I would suggest using useReducer or Redux.
-Thanks to this, the states of our application will be global and the code less distributed and more readable.
+Thanks to this, the states of our application will be global and the code will be less distributed and more readable.

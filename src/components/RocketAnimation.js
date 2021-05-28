@@ -9,10 +9,11 @@ function RocketAnimation(){
 
 const handleMoveRocket =()=>{
   const tl = gsap.timeline({defaults:{ease:'power3.inOut'}});
-  tl.fromTo(rocketItem, {}, {duration: 2, y: "-=100"})
-.fromTo(rocketItem,{},{duration: 2,x:"-=200"})
-.fromTo(rocketItem,{},{duration: 2,y: "+=100"})
-.fromTo(rocketItem,{},{duration: 2,x: "+=200"})
+  
+tl.fromTo(rocketItem, {}, {duration: 2, y: "-=100"})
+  .fromTo(rocketItem,{},{duration: 2,x:"-=200"})
+  .fromTo(rocketItem,{},{duration: 2,y: "+=100"})
+  .fromTo(rocketItem,{},{duration: 2,x: "+=200"})
 }
 
 return(
